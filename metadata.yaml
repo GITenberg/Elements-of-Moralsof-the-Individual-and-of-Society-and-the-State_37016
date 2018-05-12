@@ -1,0 +1,38 @@
+_repo: Elements-of-Moralsof-the-Individual-and-of-Society-and-the-State_37016
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Corson, Caroline Rollin
+    alias: Corson, C. R. (Caroline Rollin)
+    deathdate: 1901
+    gutenberg_agent_id: '38595'
+    url: http://www.gutenberg.org/2009/agents/38595
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janet, Paul
+    aliases:
+    - Janet, Paul Alexandre Rene
+    - Janet, Paul Alexandre René
+    birthdate: 1823
+    deathdate: 1899
+    gutenberg_agent_id: '32778'
+    url: http://www.gutenberg.org/2009/agents/32778
+description: ''
+gutenberg_issued: '2011-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37016'
+  lccn: '10006339'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics'
+- !lcc 'BJ'
+title: "Elements of Morals\r\nWith Special Application of the Moral Law to the Duties\
+  \ of the Individual and of Society and the State"
+url: http://www.gutenberg.org/ebooks/37016
